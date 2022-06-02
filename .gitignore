@@ -1,0 +1,52 @@
+**/*.zip
+**/reference/
+**/.ipynb_checkpoints/
+
+# all files larger than 100Mb are ignore.
+
+./Assignment 1/train.csv
+./Assignment 2/models/first_model.kv
+./Assignment 2/models/second_model.kv
+./Assignment 2/models/third_model.kv
+./Assignment 2/reference/wiki-bios.HUGE.txt.gz
+./Assignment 2/reference/wiki-bios.med.txt
+./Assignment 2/wiki-bios.HUGE.txt.gz
+./Assignment 2/wiki-bios.med.txt
+./Assignment 4/BERT/output/checkpoint-1000/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-1000/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-1500/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-1500/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-2000/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-2000/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-2500/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-2500/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-3000/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-3000/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-3500/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-3500/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-4000/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-4000/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-4500/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-4500/pytorch_model.bin
+./Assignment 4/BERT/output/checkpoint-500/optimizer.pt
+./Assignment 4/BERT/output/checkpoint-500/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/final/p0-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p0-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p0-i1/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p0-i2/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p1-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p1-i1/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p1-i2/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p2-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p2-i1/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p2-i2/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p3-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p3-i1/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_10/p3-i2/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p0-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p0-i1/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p0-i2/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p1-i0/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p1-i1/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p1-i2/pytorch_model.bin
+./Assignment 4/PET/hw4_output/hw4_output_50/p2-i0/pytorch_model.bin

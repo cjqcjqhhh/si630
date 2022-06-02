@@ -1,0 +1,1 @@
+{"py/object": "pet.wrapper.WrapperConfig", "model_type": "bert", "model_name_or_path": "microsoft/MiniLM-L12-H384-uncased", "wrapper_type": "mlm", "task_name": "hw4", "max_seq_length": 256, "label_list": ["0", "1"], "pattern_id": 1, "verbalizer_file": null, "cache_dir": ""}

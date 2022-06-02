@@ -4,7 +4,12 @@
 
 # all files larger than 100Mb are ignore.
 
+# Assignment 1
 ./Assignment 1/train.csv
+
+# Assignment 2
+./Assignment 2/runs/
+./Assignment 2/backup/
 ./Assignment 2/models/first_model.kv
 ./Assignment 2/models/second_model.kv
 ./Assignment 2/models/third_model.kv
@@ -12,6 +17,12 @@
 ./Assignment 2/reference/wiki-bios.med.txt
 ./Assignment 2/wiki-bios.HUGE.txt.gz
 ./Assignment 2/wiki-bios.med.txt
+
+# Assignment 3
+
+# Assignment 4
+./Assignment 4/BERT/output/
+
 ./Assignment 4/BERT/output/checkpoint-1000/optimizer.pt
 ./Assignment 4/BERT/output/checkpoint-1000/pytorch_model.bin
 ./Assignment 4/BERT/output/checkpoint-1500/optimizer.pt
